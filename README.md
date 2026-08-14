@@ -1,36 +1,70 @@
-# QA Interview Guide
+<div align="center">
 
-A single-page, interactive interview prep guide for Software Testing / QA roles — 231 expert-curated Q&As across 10 topics, from beginner fundamentals to real-world scenario questions.
+# 🧪 QA Interview Guide
 
-**Live site:** https://mabdel130.github.io/Software_Testing_Interview_Guide/
+### 231 expert-curated Q&As across 10 testing topics — Beginner to Advanced & Real-World Situations
 
-## Topics Covered
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-mabdel130.github.io-1a56db?style=for-the-badge)](https://mabdel130.github.io/Software_Testing_Interview_Guide/)
+[![GitHub Pages](https://img.shields.io/github/deployments/mabdel130/Software_Testing_Interview_Guide/github-pages?style=for-the-badge&label=Deploy)](https://github.com/mabdel130/Software_Testing_Interview_Guide/deployments)
+[![Last Commit](https://img.shields.io/github/last-commit/mabdel130/Software_Testing_Interview_Guide?style=for-the-badge&color=059669)](https://github.com/mabdel130/Software_Testing_Interview_Guide/commits/main)
+[![No Build Step](https://img.shields.io/badge/build_step-none-orange?style=for-the-badge)](#-development)
 
-- Manual Testing
-- API Testing (incl. REST Assured)
-- Selenium + TestNG
-- Playwright
-- Mobile Testing (incl. Appium)
-- Performance Testing
-- Database Testing
-- GenAI & AI Testing (incl. ISTQB CT-GenAI)
-- CI/CD Testing
-- Git & GitHub
+**➡️ [Open the guide](https://mabdel130.github.io/Software_Testing_Interview_Guide/) ⬅️**
 
-## Features
+</div>
 
-- Search across all questions
-- Filter by topic and difficulty (Beginner / Intermediate / Advanced / Situation)
-- Mark questions as reviewed or saved for later
-- Quiz mode for self-testing
-- No build step, no dependencies — a single `index.html` file
+---
 
-## Development
+## 📚 Topics Covered
 
-The entire site is one file, `index.html`. All content is driven by a single JS object (`SDATA`) embedded in the page; the rest of the markup, styles, and interactivity render from it at load time.
+| Topic | Questions | Highlights |
+|---|:---:|---|
+| 🧪 **Manual Testing** | 26 | STLC · Defect Management · Test Design · Risk |
+| 🔌 **API Testing** | 34 | Fundamentals · Advanced · **REST Assured** |
+| 🤖 **Selenium + TestNG** | 26 | WebDriver · TestNG · Cucumber BDD |
+| 🎭 **Playwright** | 21 | Fundamentals · Critical Situations |
+| 📱 **Mobile Testing** | 28 | Manual Mobile · **Appium Automation** |
+| ⚡ **Performance Testing** | 16 | Load, Stress & Performance Fundamentals |
+| 🗄️ **Database Testing** | 15 | SQL & Fundamentals |
+| 🧠 **GenAI & AI Testing** | 35 | AI Model Testing · **ISTQB CT-GenAI** |
+| 🔄 **CI/CD Testing** | 15 | Pipelines & Fundamentals |
+| 🌿 **Git & GitHub** | 15 | Git Fundamentals |
 
-To add new questions or topics, use the `add-qa-content` skill in `.claude/skills/` (local tooling, not tracked in this repo) rather than hand-editing `SDATA` directly.
+<div align="center">
 
-## Deployment
+**Total: 231 questions** · updated as new topics and questions are added
 
-Published via GitHub Pages from the `main` branch root. Any push to `main` redeploys automatically within a minute or two.
+</div>
+
+---
+
+## ✨ Features
+
+| | |
+|---|---|
+| 🔍 **Search** | Instantly filter across all 231 questions |
+| 🎚️ **Difficulty Filters** | Beginner · Intermediate · Advanced · Situation |
+| ✅ **Mark Reviewed** | Track your study progress per question |
+| 🔖 **Save for Later** | Bookmark tricky questions to revisit |
+| 🎯 **Quiz Mode** | Self-test without seeing answers upfront |
+| ⚡ **Zero Dependencies** | One `index.html` file — no build, no install, works offline |
+
+---
+
+## 🛠️ Development
+
+The entire site is a **single `index.html` file**. All content is driven by one JS object (`SDATA`) embedded in the page — the sidebar, topic grid, search index, and every question card render from it at load time.
+
+> **Adding content?** Don't hand-edit `SDATA` directly — it's a single very long line. Use the `add-qa-content` skill in `.claude/skills/` (local tooling, not tracked in this repo), which safely parses, mutates, and rewrites it for you.
+
+## 🚀 Deployment
+
+Published via **GitHub Pages** from the `main` branch root. Every push to `main` triggers an automatic redeploy — live within a minute or two.
+
+---
+
+<div align="center">
+
+Made for anyone prepping for a QA / Software Testing interview. ⭐ Star this repo if it helped you.
+
+</div>
