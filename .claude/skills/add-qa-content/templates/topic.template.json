@@ -1,0 +1,27 @@
+{
+  "key": "security",
+  "icon": "🔒",
+  "title": "Security Testing",
+  "sub": "OWASP Top 10 · AuthN/AuthZ · Vulnerability Scanning",
+  "navLabel": "Security Testing",
+  "colorFrom": "#7f1d1d",
+  "colorTo": "#dc2626",
+  "groups": [
+    {
+      "name": "Core Concepts",
+      "questions": [
+        {
+          "diff": "beginner",
+          "question": "What is ... ?",
+          "reference": "OWASP Testing Guide v4",
+          "concept": "One or two sentence plain-language summary of the concept.",
+          "steps": [
+            { "label": "Point One", "detail": "Explanation of the first point." },
+            { "label": "Point Two", "detail": "Explanation of the second point." }
+          ],
+          "note": "Key Insight: one punchy closing sentence."
+        }
+      ]
+    }
+  ]
+}
