@@ -2,7 +2,7 @@
 
 # 🧪 Software Testing Interview Guide + Real Scenarios
 
-### 200+ expert-curated Q&As across 10 testing topics — Beginner to Advanced & Real-World Situations
+### 200+ expert-curated Q&As across 11 testing topics — Beginner to Advanced & Real-World Situations
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-mabdel130.github.io-1a56db?style=for-the-badge)](https://mabdel130.github.io/Software_Testing_Interview_Guide/)
 [![GitHub Pages](https://img.shields.io/github/deployments/mabdel130/Software_Testing_Interview_Guide/github-pages?style=for-the-badge&label=Deploy)](https://github.com/mabdel130/Software_Testing_Interview_Guide/deployments)
@@ -29,10 +29,11 @@
 | 🧠 **GenAI & AI Testing** | 35 | AI Model Testing · **ISTQB CT-GenAI** |
 | 🔄 **CI/CD Testing** | 15 | Pipelines & Fundamentals |
 | 🌿 **Git & GitHub** | 15 | Git Fundamentals |
+| 💻 **Programming Languages** | 30 | Java · OOP · **SOLID** · TypeScript · JavaScript |
 
 <div align="center">
 
-**Total: 231 questions** · updated as new topics and questions are added
+**Total: 261 questions** · updated as new topics and questions are added
 
 </div>
 
@@ -42,7 +43,7 @@
 
 | | |
 |---|---|
-| 🔍 **Search** | Instantly filter across all 231 questions |
+| 🔍 **Search** | Instantly filter across all 261 questions |
 | 🎚️ **Difficulty Filters** | Beginner · Intermediate · Advanced · Situation |
 | ✅ **Mark Reviewed** | Track your study progress per question |
 | 🔖 **Save for Later** | Bookmark tricky questions to revisit |
