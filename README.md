@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🧪 QA Interview Guide
+# 🧪 Software Testing Interview Guide + Real Scenarios
 
-### 231 expert-curated Q&As across 10 testing topics — Beginner to Advanced & Real-World Situations
+### 200+ expert-curated Q&As across 10 testing topics — Beginner to Advanced & Real-World Situations
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-mabdel130.github.io-1a56db?style=for-the-badge)](https://mabdel130.github.io/Software_Testing_Interview_Guide/)
-[![GitHub Pages](https://img.shields.io/github/deployments/mabdel130/Software_Testing_Interview_Guide/github-pages?style=for-the-badge&label=Deploy)](https://github.com/mabdel130/Software_Testing_Interview_Guide/deployments)
-[![Last Commit](https://img.shields.io/github/last-commit/mabdel130/Software_Testing_Interview_Guide?style=for-the-badge&color=059669)](https://github.com/mabdel130/Software_Testing_Interview_Guide/commits/main)
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-mabdel130.github.io-1a56db?style=for-the-badge)](https://mabdel130.github.io/Software-Testing-Interview-Guide-Real-Scenarios/)
+[![GitHub Pages](https://img.shields.io/github/deployments/mabdel130/Software-Testing-Interview-Guide-Real-Scenarios/github-pages?style=for-the-badge&label=Deploy)](https://github.com/mabdel130/Software-Testing-Interview-Guide-Real-Scenarios/deployments)
+[![Last Commit](https://img.shields.io/github/last-commit/mabdel130/Software-Testing-Interview-Guide-Real-Scenarios?style=for-the-badge&color=059669)](https://github.com/mabdel130/Software-Testing-Interview-Guide-Real-Scenarios/commits/main)
 [![No Build Step](https://img.shields.io/badge/build_step-none-orange?style=for-the-badge)](#-development)
 
-**➡️ [Open the guide](https://mabdel130.github.io/Software_Testing_Interview_Guide/) ⬅️**
+**➡️ [Open the guide](https://mabdel130.github.io/Software-Testing-Interview-Guide-Real-Scenarios/) ⬅️**
 
 </div>
 
