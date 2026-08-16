@@ -29,11 +29,11 @@
 | 🧠 **GenAI & AI Testing** | 35 | AI Model Testing · **ISTQB CT-GenAI** |
 | 🔄 **CI/CD Testing** | 15 | Pipelines & Fundamentals |
 | 🌿 **Git & GitHub** | 15 | Git Fundamentals |
-| 💻 **Programming Languages** | 30 | Java · OOP · **SOLID** · TypeScript · JavaScript |
+| 💻 **Programming Languages** | 46 | Java · OOP · **SOLID** · TypeScript · JavaScript |
 
 <div align="center">
 
-**Total: 261 questions** · updated as new topics and questions are added
+**Total: 277 questions** · updated as new topics and questions are added
 
 </div>
 
@@ -43,7 +43,7 @@
 
 | | |
 |---|---|
-| 🔍 **Search** | Instantly filter across all 261 questions |
+| 🔍 **Search** | Instantly filter across all 277 questions |
 | 🎚️ **Difficulty Filters** | Beginner · Intermediate · Advanced · Situation |
 | ✅ **Mark Reviewed** | Track your study progress per question |
 | 🔖 **Save for Later** | Bookmark tricky questions to revisit |
