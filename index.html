@@ -56,10 +56,14 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:#f1f5f
 
 /* SIDEBAR */
 .sidebar{position:sticky;top:54px;border-radius:14px;
-  overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.1);align-self:start}
-.sbh{background:#0f1f3d;color:#fff;padding:11px 15px;
+  overflow:hidden;box-shadow:0 4px 20px rgba(0,0,0,.1);align-self:start;
+  max-height:calc(100vh - 74px);display:flex;flex-direction:column}
+.sbh{background:#0f1f3d;color:#fff;padding:11px 15px;flex-shrink:0;
   font-size:.68rem;font-weight:800;letter-spacing:2px;text-transform:uppercase}
-.sbl{background:#fff}
+.sbl{background:#fff;overflow-y:auto;flex:1;min-height:0}
+.sbl::-webkit-scrollbar{width:6px}
+.sbl::-webkit-scrollbar-thumb{background:#cbd5e1;border-radius:50px}
+.sbl::-webkit-scrollbar-track{background:transparent}
 .ni{display:flex;align-items:center;gap:9px;padding:10px 14px;
   cursor:pointer;font-size:.82rem;font-weight:500;color:#475569;
   border-left:3px solid transparent;transition:all .15s;user-select:none}
@@ -70,7 +74,7 @@ body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:#f1f5f
   border-radius:50px;font-size:.64rem;font-weight:800;
   padding:2px 8px;min-width:24px;text-align:center}
 .ni.active .ncnt{background:#1a56db;color:#fff}
-.sbp{background:#fff;border-top:1px solid #e2e8f0;padding:11px 14px}
+.sbp{background:#fff;border-top:1px solid #e2e8f0;padding:11px 14px;flex-shrink:0}
 .pl{display:flex;justify-content:space-between;
   font-size:.69rem;color:#64748b;font-weight:700;margin-bottom:6px}
 .pt{height:6px;background:#e2e8f0;border-radius:50px;overflow:hidden}
