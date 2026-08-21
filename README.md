@@ -19,21 +19,21 @@
 
 | Topic | Questions | Highlights |
 |---|:---:|---|
-| 🧪 **Manual Testing** | 26 | STLC · Defect Management · Test Design · Risk |
-| 🔌 **API Testing** | 34 | Fundamentals · Advanced · **REST Assured** |
-| 🤖 **Selenium + TestNG** | 26 | WebDriver · TestNG · Cucumber BDD |
-| 🎭 **Playwright** | 21 | Fundamentals · Critical Situations |
-| 📱 **Mobile Testing** | 28 | Manual Mobile · **Appium Automation** |
-| ⚡ **Performance Testing** | 16 | Load, Stress & Performance Fundamentals |
-| 🗄️ **Database Testing** | 15 | SQL & Fundamentals |
-| 🧠 **GenAI & AI Testing** | 35 | AI Model Testing · **ISTQB CT-GenAI** |
-| 🔄 **CI/CD Testing** | 15 | Pipelines & Fundamentals |
-| 🌿 **Git & GitHub** | 15 | Git Fundamentals |
-| 💻 **Programming Languages** | 46 | Java · OOP · **SOLID** · TypeScript · JavaScript |
+| 🧪 **Manual Testing** | 30 | STLC · Defect Management · Test Design · Risk · Lead Scenarios |
+| 🔌 **API Testing** | 38 | Fundamentals · Advanced · **REST Assured** · Lead Scenarios |
+| 🤖 **Selenium + TestNG** | 30 | WebDriver · TestNG · Cucumber BDD · Lead Scenarios |
+| 🎭 **Playwright** | 25 | Fundamentals · Critical Situations · Lead Scenarios |
+| 📱 **Mobile Testing** | 32 | Manual Mobile · **Appium Automation** · Lead Scenarios |
+| ⚡ **Performance Testing** | 20 | Load, Stress & Performance Fundamentals · Lead Scenarios |
+| 🗄️ **Database Testing** | 19 | SQL & Fundamentals · Lead Scenarios |
+| 🧠 **GenAI & AI Testing** | 39 | AI Model Testing · **ISTQB CT-GenAI** · Lead Scenarios |
+| 🔄 **CI/CD Testing** | 19 | Pipelines & Fundamentals · Lead Scenarios |
+| 🌿 **Git & GitHub** | 19 | Git Fundamentals · Lead Scenarios |
+| 💻 **Programming Languages** | 50 | Java · OOP · **SOLID** · TypeScript · JavaScript · Lead Scenarios |
 
 <div align="center">
 
-**Total: 277 questions** · updated as new topics and questions are added
+**Total: 321 questions** · includes senior/team-lead situational questions in every topic · updated as new topics and questions are added
 
 </div>
 
@@ -43,7 +43,7 @@
 
 | | |
 |---|---|
-| 🔍 **Search** | Instantly filter across all 277 questions |
+| 🔍 **Search** | Instantly filter across all 321 questions |
 | 🎚️ **Difficulty Filters** | Beginner · Intermediate · Advanced · Situation |
 | ✅ **Mark Reviewed** | Track your study progress per question |
 | 🔖 **Save for Later** | Bookmark tricky questions to revisit |
