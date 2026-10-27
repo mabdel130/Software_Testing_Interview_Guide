@@ -2,7 +2,7 @@
 
 # 🧪 Software Testing Interview Guide + Real Scenarios
 
-### 200+ expert-curated Q&As across 11 testing topics — Beginner to Advanced & Real-World Situations
+### 375 expert-curated Q&As across 12 testing topics — Beginner to Advanced & Real-World Situations
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-mabdel130.github.io-1a56db?style=for-the-badge)](https://mabdel130.github.io/Software_Testing_Interview_Guide/)
 [![GitHub Pages](https://img.shields.io/github/deployments/mabdel130/Software_Testing_Interview_Guide/github-pages?style=for-the-badge&label=Deploy)](https://github.com/mabdel130/Software_Testing_Interview_Guide/deployments)
@@ -26,14 +26,15 @@
 | 📱 **Mobile Testing** | 32 | Manual Mobile · **Appium Automation** · Lead Scenarios |
 | ⚡ **Performance Testing** | 20 | Load, Stress & Performance Fundamentals · Lead Scenarios |
 | 🗄️ **Database Testing** | 19 | SQL & Fundamentals · Lead Scenarios |
-| 🧠 **GenAI & AI Testing** | 39 | AI Model Testing · **ISTQB CT-GenAI** · Lead Scenarios |
+| 🧠 **GenAI & AI Testing** | 58 | AI Model Testing · **ISTQB CT-GenAI** · **Evals & LLM-as-a-Judge** · AI STLC · Lead Scenarios |
 | 🔄 **CI/CD Testing** | 19 | Pipelines & Fundamentals · Lead Scenarios |
 | 🌿 **Git & GitHub** | 19 | Git Fundamentals · Lead Scenarios |
 | 💻 **Programming Languages** | 50 | Java · OOP · **SOLID** · TypeScript · JavaScript · Lead Scenarios |
+| 🛠️ **Test Automation Engineering** | 35 | **ISTQB CTAL-TAE v2.0** · gTAA · TAF Layers · Pipelines · Metrics · Lead Scenarios |
 
 <div align="center">
 
-**Total: 321 questions** · includes senior/team-lead situational questions in every topic · updated as new topics and questions are added
+**Total: 375 questions** · includes senior/team-lead situational questions in every topic · updated as new topics and questions are added
 
 </div>
 
@@ -43,7 +44,8 @@
 
 | | |
 |---|---|
-| 🔍 **Search** | Instantly filter across all 321 questions |
+| 🏠 **Topic Overview** | Clean home page with one card per topic — question count and difficulty mix at a glance |
+| 🔍 **Search** | Instantly filter across all 375 questions |
 | 🎚️ **Difficulty Filters** | Beginner · Intermediate · Advanced · Situation |
 | ✅ **Mark Reviewed** | Track your study progress per question |
 | 🔖 **Save for Later** | Bookmark tricky questions to revisit |
